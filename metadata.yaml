@@ -1,10 +1,16 @@
 _repo: Buddhism-In-its-Connexion-With-Brahmanism-and-Hinduism-and-In-Its-Contrast-with-Christianity_47214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47214-h/images/cover.jpg
 creator:
   author:
     agent_name: Monier-Williams, Sir Monier
     gutenberg_agent_id: '44195'
     url: http://www.gutenberg.org/2009/agents/44195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47214#Buddhism-In-its-Connexion-With-Brahmanism-and-Hinduism-and-In-Its-Contrast-with-Christianity
 gutenberg_issued: '2014-10-28'
 gutenberg_type: Text
 identifiers:
