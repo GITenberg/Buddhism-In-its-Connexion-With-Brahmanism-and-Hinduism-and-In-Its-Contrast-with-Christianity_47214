@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Buddhism, In its Connexion With Brahmanism and Hinduism, and In Its Contrast
   with Christianity
 url: http://www.gutenberg.org/ebooks/47214
